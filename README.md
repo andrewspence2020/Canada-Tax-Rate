@@ -1,2 +1,2 @@
 # Canada-Tax-Rate
-I was practicing my JavaScript when i was like, You know what I wanted to know how much the tax rate in Canada was and damn i was shocked. 
+Practicing JavaScript so I was like hey why not make a Canada Tax rate Calculate. More updates coming soon. 
