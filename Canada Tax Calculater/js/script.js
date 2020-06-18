@@ -1,5 +1,7 @@
 
 //Canada Tax rate
+/*Creater: Andrew Spence
+*/
 var wageForYearWithOutTaxDuduction;
 var percentage;
 var totalTakeHomePayWithTaxDuductions;
@@ -49,6 +51,8 @@ YearlyRate = function(wage){
     
 }
 
+
+//Put in Your Hourly Wage here
 YearlyRate(35);
 
 
@@ -63,7 +67,4 @@ YearlyRate(35);
 
 
 
-function newFunction(percentage) {
-    console.log(percentage);
-}
 
